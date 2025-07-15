@@ -1,0 +1,40 @@
+== JS History
+== Where to js code is written
+== How js Works
+== Variables
+== Operator
+== falsy
+== Control Flow 
+    (if- switch - for- while-do-while)
+= communication with user
+
+
+------------------------------------------
+null + null = 0
+null + number = number
+number + undefined = NaN
+undefined + undefined = NaN
+
+------------------------------------------
+
+// variables -- container in memory
+/**
+ * == all vars defined with var keyword
+ *--------------------Datatypes --------------------
+== Primitive datatypes
+ --------------------------------------------------
+    == string
+    == number
+    == boolean
+    == null
+    == undefined
+ --------------------------------------------------
+ == Reference datatypes
+ --------------------------------------------------
+    == Object
+ ---------------------------------------------------
+    *** var ***
+=====================================================
+    == accept values from deferent datatypes
+    == can redeclare 
+ */
