@@ -7,7 +7,7 @@
 == Control Flow 
     (if- switch - for- while-do-while)
 = communication with user
-
+== Regx == self Study
 
 ------------------------------------------
 null + null = 0
@@ -38,3 +38,13 @@ undefined + undefined = NaN
     == accept values from deferent datatypes
     == can redeclare 
  */
+
+3 fizz 
+5 buzz
+
+15 fizzbuzz
+
+7 none
+
+21 
+25

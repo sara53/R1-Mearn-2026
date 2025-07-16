@@ -1,0 +1,15 @@
+== Functions
+    - Built in Functions
+    - user defined functions
+        = function statement
+        = function expression
+        = callback function
+        = anonymous function
+        == IIFE Function 
+
+= How js Engine works
+
+= Hoisting
+== Array 
+
+== String 
