@@ -1,0 +1,6 @@
+== functions execution in memory
+== local scope VS Global scope
+== shadwing
+== Object
+== Math
+== date object (self study) //
