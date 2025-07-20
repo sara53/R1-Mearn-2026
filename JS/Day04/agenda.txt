@@ -1,0 +1,57 @@
+=== DOM 
+
+/** DOM *************************
+ * ----------------------------------
+ * == How to select element from dom
+ * --------------------------(Methods)----------------------
+ *  == getElementById ==> element | null
+ *  == querySelector ==> element | null
+ *  == getElementsByClassName ==> collection
+ *  == getElementsByTagName ==> collection
+ *  == getElementsByName ==> nodeList
+ *  == querySelectorAll ==> nodeList
+ * ------------------------(props)-------------------------
+ *  == document.body
+ *  == document.links
+ *  == document.images
+ *  == document.forms
+ *  == element.firstChild
+ *  == element.firstElementChild
+ *  == element.lastChild
+ *  == element.lastElementChild
+ *  == element.children
+ *  == element.childNodes
+ */
+
+ /** How to change content in dom */
+
+/**
+ *  == innerText
+ *  == innerHTML
+ *  == textContent (Search)
+ * ----------------------input----------------
+ * == value
+ * == checked
+ *
+ */
+== Event 
+    -- add attributes
+
+/**
+ * == style
+ * == className
+ * == classList
+ *  == add
+ *  == remove
+ *  == toggle
+ * == setAttribute
+ *
+ */
+    /**
+ *  == getAttribute
+ *  == setAttribute
+ *  == hasAttribute
+ *  == removeAttribute
+ *  == toggleAttribute
+ *
+ */
