@@ -1,0 +1,28 @@
+== DOM
+/**
+ * == appendChild
+ * ---------------------------
+ * == accept node datatype
+ * == accept only one child
+ * == return child element
+ * ------------------------------
+ * == accept more than one element
+ * == accept node or string datatype
+ * == return undefined
+ */
+
+// before
+// after
+// insertBefore
+// insertAdjustElement
+
+== Events
+    -- attach attribute
+    -- attach function on element
+    -- addEventListener
+== BOM
+    -- window
+    -- history
+    -- location
+    -- navigation
+    -- screen (search)
