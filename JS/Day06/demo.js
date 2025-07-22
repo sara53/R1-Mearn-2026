@@ -1,28 +1,25 @@
-var tbody = document.getElementsByTagName("tbody")[0];
-function getAllUsers() {
-	var xhr = new XMLHttpRequest();
+// try {
+// 	//Error Handling
+// 	console.log("Welcome");
 
-	xhr.open("GET", "https://jsonplaceholder.typicode.com/users");
-	xhr.send("");
+// 	console.log("Second");
+// 	//throw new Error("can'y divide by zero");
+// 	console.log("Apply Now");
+// } catch (error) {
+// 	//throw "Hello my Custom Error";
+// 	console.log(error); // Error
+// 	//
+// 	document.writeln("<h1>Connection Error , please try Again</h1>");
+// } finally {
+// 	console.log("must be executed");
+// }
 
-	xhr.onreadystatechange = function () {
-		if (xhr.readyState == 4) {
-			if (xhr.status == 200) {
-				var users = JSON.parse(xhr.response);
+// function sum(x, y) {
+// 	if (arguments.length != 2) {
+// 		throw new Error("Pass only two args");
+// 	}
 
-				for (var i = 0; i < users.length; i++) {
-					tbody.innerHTML += `<tr>
-                    <td>${users[i].id}</td>
-                    <td>${users[i].name}</td>
-                    <td>${users[i].email}</td>
-                    <td>
-                  
-                        <button>delete user</button>
-                    </td>
-                
-                </tr>`;
-				}
-			}
-		}
-	};
-}
+// 	return x + y;
+// }
+
+// console.log(sum(5, 2));
