@@ -1,0 +1,8 @@
+== BOM
+    -- location
+    -- history
+    -- navigator
+
+== Ajax 
+
+== Error Handling
