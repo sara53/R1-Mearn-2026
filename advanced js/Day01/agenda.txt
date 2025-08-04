@@ -1,0 +1,7 @@
+== This 
+== Call - bind - apply
+== that Pattern
+== closure
+== factory Pattern
+== Function Constructor
+
