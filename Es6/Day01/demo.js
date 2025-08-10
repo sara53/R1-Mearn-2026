@@ -7,6 +7,7 @@
  *  == foreach
  *  == some
  *  == every
+ *  == filter
  */
 
 // let arr = [10, [20, 30], [60, 70]];
@@ -74,3 +75,36 @@
 // 	findElement(numbers[i], i, numbers);
 // 	console.log("--------------------");
 // }
+
+// let products = [
+// 	{
+// 		id: 1,
+// 		name: "Book",
+// 		price: 200,
+// 		category: "school",
+// 	},
+// 	{
+// 		id: 2,
+// 		name: "Pen",
+// 		price: 100,
+// 		category: "school",
+// 	},
+// 	{
+// 		id: 3,
+// 		name: "Watch",
+// 		price: 100,
+// 		category: "electronics",
+// 	},
+// 	{
+// 		id: 3,
+// 		name: "phone",
+// 		price: 100,
+// 		category: "electronics",
+// 	},
+// ];
+
+// let result = products.filter(function (product, index, arr) {
+// 	return false;
+// });
+
+// console.log(result);
