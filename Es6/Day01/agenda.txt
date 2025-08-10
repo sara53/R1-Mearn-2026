@@ -1,0 +1,38 @@
+== var - let - const
+== spread operator
+== destructuring
+== rest params
+== default values
+== arrow functions
+== Object Props
+== Array API 
+== String API // done in js 
+
+
+
+/** Var
+ * == reassign with different datatype
+ * == redeclaration
+ * == Hoisting
+ * == function scope
+ * == added to window
+ * ---------------------------------
+ * = let
+ * ------------------------------
+ * ==reassign with different datatype
+ * == can't redeclare
+ * == Hoisting (Throw Error before initlization)
+ * == TDz -- temp dead zone
+ * == block scope
+ * == not added to window
+ * -----------------------------
+ * = const
+ * ------------------------------
+ * == can't reassign with different datatype
+ * == can't redeclare
+ * == Hoisting (Throw Error before initlization)
+ * == TDz -- temp dead zone
+ * == block scope
+ * == not added to window
+ */
+
