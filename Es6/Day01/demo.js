@@ -108,3 +108,11 @@
 // });
 
 // console.log(result);
+
+// ["mona", "ola", "ali"][("Mona", "Ola", "Ali")];
+
+// hello javascript // lowercase
+
+// [ "mona", "ali", "ahmed", "ola" ] 3
+
+// ["mona","ahmed"]
